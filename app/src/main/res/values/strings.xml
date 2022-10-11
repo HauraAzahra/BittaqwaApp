@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BittaqwaAppMaster</string>
+    <string name="text_welcome">Assalamualaikum, Kawan</string>
+    <string name="text_name_pray">Subuh</string>
+    <string name="text_time_pray">04:20</string>
+    <string name="text_location_pray">Mekkah, Arab Saudi</string>
+    <string name="text_menu_doa">Doa Doa</string>
+    <string name="text_menu_dzikir">Dzikir</string>
+    <string name="text_menu_zakat">Zakat</string>
+    <string name="text_menu_jadwal_shalat">Jadwal\nShalat</string>
+    <string name="text_menu_video_kajian">Video\nKajian</string>
+    <string name="text_inspirasi">Inspirasi</string>
+    <string name="text_jumlah_rupiah">Jumlah Rupiah</string>
+    <string name="text_ok">OK</string>
+    <string name="text_doa_pagi_malam"><![CDATA[Pagi & Malam]]></string>
+    <string name="text_doa_rumah">Rumah</string>
+    <string name="text_doa_makanan_minuman"><![CDATA[Makanan & Minuman]]></string>
+    <string name="text_doa_perjalanan">Perjalanan</string>
+    <string name="text_etika_baik">Etika Baik</string>
+    <string name="text_sholat">Sholat</string>
+    <string name="text_menu_jadwal_sholat">Jadwal Sholat</string>
+    <string name="text_jadwal_imsak">Imsak</string>
+    <string name="text_00">00.00</string>
+    <string name="text_jadwal_subuh">Subuh</string>
+    <string name="text_jadwal_terbit">Terbit</string>
+    <string name="text_jadwal_dzuhur">Dzuhur</string>
+    <string name="text_jadwal_ashar">Ashar</string>
+    <string name="text_jadwal_marghrib">Maghrib</string>
+    <string name="text_jadwal_isya">Isya</string>
+    <string name="text_total_harta">Total Harta</string>
+    <string name="text_total_uang">Total Uang</string>
+    <string name="text_rp_0">Rp 0</string>
+    <string name="text_zakat_dikeluarkan">Zakat di keluarkan</string>
+</resources>
